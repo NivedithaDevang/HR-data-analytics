@@ -1,37 +1,20 @@
-## Dashboard Preview
+# 📊 HR Analytics Dashboard
 
-### Complete Dashboard
+An interactive HR Analytics Dashboard built using Tableau Desktop to analyze employee data and uncover workforce insights.
 
-![Dashboard](screenshots/dashboard.png)
+## Features
+- Employee Count by Department
+- Gender Distribution
+- Employee Status Analysis
+- Age Distribution
+- Performance Analysis
+- Engagement Score
+- Satisfaction Score
+- Work-Life Balance Analysis
 
-### Employee Count by Department
+## Tools Used
+- Tableau Desktop
+- CSV Dataset
 
-![Employee Count](screenshots/employee_count.png)
-
-### Gender Distribution
-
-![Gender Distribution](screenshots/gender_distribution.png)
-
-### Age Distribution
-
-![Age Distribution](screenshots/age_distribution.png)
-
-### Employee Status
-
-![Employee Status](screenshots/employee_status.png)
-
-### Engagement Score
-
-![Engagement Score](screenshots/engagement_score.png)
-
-### Satisfaction Score
-
-![Satisfaction Score](screenshots/satisfaction_score.png)
-
-### Work-Life Balance
-
-![Work-Life Balance](screenshots/work_life_balance.png)
-
-### Performance Score
-
-![Performance Score](screenshots/performance_score.png)
+## Author
+**Niveditha M**
